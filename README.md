@@ -21,7 +21,7 @@ The proposed architecture combines a shallow CNN for unsupervised local feature 
 - python 2.7+
 - scikit-learn
 - numpy
-- tesnorflow
+- tensorflow
 
 ---
 
